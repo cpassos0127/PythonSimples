@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+
+# Ambientes
+.env
+
+# Windows executables
+*.exe
+
+# IDEs
+.vscode/
