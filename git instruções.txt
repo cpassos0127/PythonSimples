@@ -1,0 +1,10 @@
+git config --global user.name "Cleverson.passos"
+git config --global user.email "cpassos@smartassetcontrol.com.br"
+
+git log
+
+git add.
+
+git commit -m ""
+
+git push -u origin main
